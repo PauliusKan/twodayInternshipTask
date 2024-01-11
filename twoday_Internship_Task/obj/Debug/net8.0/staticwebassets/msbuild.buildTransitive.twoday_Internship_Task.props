@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\twoday_Internship_Task.props" />
+</Project>
